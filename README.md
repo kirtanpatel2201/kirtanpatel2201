@@ -35,7 +35,7 @@
 * 🔐 **[CipherVault 2.0](https://github.com/kirtanpatel2201/CipherVault-2.0)**
   > A secure encrypted storage system featuring layered authentication with password and auto face detection.
 
-* 🕵️ **[StegoGuardian](https://github.com/kirtanpatel2201/StegoGuardian)**
-  > A steganography-based communication system for stealth data transmission inside standard files (TXT, PDF, PNG).
+* 🧮 **[EnigmaClass](https://github.com/kirtanpatel2201/EnigmaClass)**
+  > An interactive, web-based educational tool featuring real-time execution of classical and modern cryptographic algorithms.
 
 ---
