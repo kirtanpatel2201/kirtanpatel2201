@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Kirtan Patel! 👋
 
-<!--
-**kirtanpatel2201/kirtanpatel2201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔐 Cybersecurity Enthusiast | Developer
 
-Here are some ideas to get you started:
+Currently pursuing my B.E. in Information Technology, with a strong focus on cybersecurity and cryptography. I enjoy building tools that solve practical security problems, from encrypted storage systems to steganography applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am actively gaining hands-on experience with essential cybersecurity tools and aiming to contribute to impactful cybersecurity-oriented roles.
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, JavaScript, HTML/CSS
+- **Frameworks/Libraries:** React, Vite, TailwindCSS, Streamlit
+- **Security Concepts:** Cryptography (RSA, AES, Custom Ciphers), Steganography, Authentication
+
+---
+
+### 🚀 Highlighted Projects
+
+* **[CryptoSeal](https://github.com/kirtanpatel2201/CryptoSeal):** A browser-based environment for signing documents, verifying integrity, and concealing encrypted information using modern cryptographic standards.
+* **[CipherVault 2.0](https://github.com/kirtanpatel2201/CipherVault2-0):** A secure encrypted storage system featuring layered authentication with password and auto face detection.
+* **[StegoGuardian](https://github.com/kirtanpatel2201/StegoGuardian):** A steganography-based communication system for stealth data transmission inside standard files.
+
+---
+
+### 📫 Let's Connect!
+- **Portfolio:** [(https://kirtan-patel-portfolio.vercel.app/)](https://portfolioforkp.vercel.app/)
+- **Email:** *kirtanpatel2201@gmail.com*
