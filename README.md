@@ -18,11 +18,11 @@ I am actively gaining hands-on experience with essential cybersecurity tools and
 ### 🚀 Highlighted Projects
 
 * **[CryptoSeal](https://github.com/kirtanpatel2201/CryptoSeal):** A browser-based environment for signing documents, verifying integrity, and concealing encrypted information using modern cryptographic standards.
-* **[CipherVault 2.0](https://github.com/kirtanpatel2201/CipherVault2-0):** A secure encrypted storage system featuring layered authentication with password and auto face detection.
+* **[CipherVault 2.0](https://github.com/kirtanpatel2201/CipherVault-2.0):** A secure encrypted storage system featuring layered authentication with password and auto face detection.
 * **[StegoGuardian](https://github.com/kirtanpatel2201/StegoGuardian):** A steganography-based communication system for stealth data transmission inside standard files.
 
 ---
 
 ### 📫 Let's Connect!
-- **Portfolio:** [(https://kirtan-patel-portfolio.vercel.app/)](https://portfolioforkp.vercel.app/)
+- **Portfolio:** [Kirtan Patel](https://portfolioforkp.vercel.app/)
 - **Email:** *kirtanpatel2201@gmail.com*
